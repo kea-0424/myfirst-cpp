@@ -52,7 +52,7 @@ case 2: cout << "There's not enough water in your country " << endl;
 case 3: cout << "How many tons of potatoes do you want to produce per harvest(10-200)tons" << endl;
         cin >> quantity;
         if (quantity > 40 && quantity < 70) {
-        cout << "You will need 3 acres of field" << endl;
+        cout << "You will need 4 acres of field" << endl;
         }
 }
 }
