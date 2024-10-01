@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727786402 source:/home/holberton/Documents/0424/Keabetsoe/bankq2/main.cpp
+	<iostream>
+	<string>
+
